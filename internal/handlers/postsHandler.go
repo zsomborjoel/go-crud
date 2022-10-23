@@ -2,8 +2,8 @@ package handlers
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/zsomborjoel/go-crud/pkg/initializers"
-	"github.com/zsomborjoel/go-crud/pkg/models"
+	"github.com/zsomborjoel/go-crud/internal/initializers"
+	"github.com/zsomborjoel/go-crud/internal/models"
 )
 
 func PostsCreate(c *gin.Context) {

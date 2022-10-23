@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/zsomborjoel/go-crud/pkg/handlers"
+	"github.com/zsomborjoel/go-crud/internal/handlers"
 )
 
 func PostsRegister(router *gin.RouterGroup) {

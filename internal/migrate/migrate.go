@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/zsomborjoel/go-crud/pkg/initializers"
-	"github.com/zsomborjoel/go-crud/pkg/models"
+	"github.com/zsomborjoel/go-crud/internal/initializers"
+	"github.com/zsomborjoel/go-crud/internal/models"
 )
 
 func init() {
