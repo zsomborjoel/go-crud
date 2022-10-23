@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/zsomborjoel/go-crud/pkg/initializers"
-	"github.com/zsomborjoel/go-crud/pkg/routes"
+	"github.com/zsomborjoel/go-crud/internal/initializers"
+	"github.com/zsomborjoel/go-crud/internal/routes"
 )
 
 func init() {
